@@ -1,0 +1,1 @@
+import{_ as e,F as t}from"./Footer-a8297061.js";import{o,c as s,k as _,F as c,p as r,b as p,a as d}from"./index-2fa15896.js";const n=a=>(r("data-v-70d0aab7"),a=a(),p(),a),l=n(()=>d("div",{class:"content"},"购物车",-1)),i={__name:"Cart",setup(a){return(m,u)=>(o(),s(c,null,[l,_(t,{index:2})],64))}},x=e(i,[["__scopeId","data-v-70d0aab7"]]);export{x as default};

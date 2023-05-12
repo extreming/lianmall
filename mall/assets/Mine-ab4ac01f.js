@@ -1,0 +1,1 @@
+import{_ as o,F as t}from"./Footer-a8297061.js";import{o as s,c as a,k as _,F as c,p as n,b as p,a as r}from"./index-2fa15896.js";const d=e=>(n("data-v-eeb01791"),e=e(),p(),e),i=d(()=>r("div",{class:"content"},"我的",-1)),l={__name:"Mine",setup(e){return(m,u)=>(s(),a(c,null,[i,_(t,{index:3})],64))}},x=o(l,[["__scopeId","data-v-eeb01791"]]);export{x as default};
